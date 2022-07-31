@@ -1,4 +1,4 @@
-import { userRouter } from 'next/router';
+import { useRouter } from 'next/router';
 
 function Produtos() {
     const router = useRouter();
