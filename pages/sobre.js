@@ -3,9 +3,9 @@ import Link from 'next/link';
 //useState importa um componente com memória(estado), nesse caso o contador
 function Sobre() {
     return (<div>
-        <h1>Home</h1>
+        <h1>Porque você clicou, Aryane?</h1>
         <Link href="/">
-            <a>Entrar na página Home</a>
+            <a>agora, clique aqui</a>
         </Link>
        </div>
     )
