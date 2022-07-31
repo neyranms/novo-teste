@@ -6,7 +6,7 @@ function Home() {
     <div>
         <h1>S2</h1>
         <Link href="/sobre">
-            <a>atualizado 11:38</a>
+            <a>atualizado 11:43</a>
         </Link>
        </div>
     )
