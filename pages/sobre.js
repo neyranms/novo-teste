@@ -5,7 +5,7 @@ function Sobre() {
     return (<div>
         <h1>Home</h1>
         <Link href="/">
-            <a>Acessar a página Home</a>
+            <a>Entrar na página Home</a>
         </Link>
        </div>
     )
